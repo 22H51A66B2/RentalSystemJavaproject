@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Anirudh Aravalli - [nallurisiddhu4@gmail.com](mailto:nallurisiddhu4@gmail.com)
+nallurisiddhu - [nallurisiddhu4@gmail.com](mailto:nallurisiddhu4@gmail.com)
 
 ## Conclusion
 
