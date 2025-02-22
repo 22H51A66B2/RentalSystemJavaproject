@@ -75,21 +75,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Credits
-
-- **f(Y)_Solutions**: For providing the training module.
-- **Contributors**: 
-  - [nalluri_siddartha]((https://github.com/NalluriSiddarthaChowdary))
-
-## Author
-
-nallurisiddhu - [nallurisiddhu4@gmail.com](mailto:nallurisiddhu4@gmail.com)
-
 ## Conclusion
 
 Thank you for checking out the Digital Wallet Management System. Feel free to contribute and provide feedback!
 
-## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nalluri-siddartha-bb78b02bb)
-- [GitHub](https://github.com/NalluriSiddarthaChowdary)
